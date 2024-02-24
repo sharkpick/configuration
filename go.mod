@@ -1,4 +1,4 @@
-module configuration
+module github.com/sharkpick/configuration
 
 go 1.21.3
 
